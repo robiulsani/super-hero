@@ -1,0 +1,22 @@
+body{
+    font-family: 'Roboto', sans-serif;  
+}
+h1{
+  font-size: 50px;
+}
+.name{
+    color: orange;
+    
+}
+.with{
+  width: 40%;
+  float: left;
+  margin: 3%;
+  padding: 2%;
+}
+.with img{
+  width: 110%;
+}
+h3{
+  border-bottom-width: 2px;
+}
